@@ -1,7 +1,7 @@
 # ♑ Capricorn
 
 <p align="center">
-  <img src="https://img.shields.io/badge/应用-AI桌宠-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/%E5%BA%94%E7%94%A8-AI%E6%A1%8C%E5%AE%A0-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/状态-已完结-success?style=flat-square" />
 </p>
 
