@@ -1,5 +1,11 @@
 # ♑ Capricorn
 
+<p align="center">
+  <img src="https://img.shields.io/badge/应用-AI桌宠-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/状态-已完结-success?style=flat-square" />
+</p>
+
+---
 ## 💖 作者：超爱你的派大星
 
 > 把一个真正有性格、记得住你的人，放到桌面上。
